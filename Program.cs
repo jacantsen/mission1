@@ -1,4 +1,6 @@
-﻿using System;
+//Jacob Christiansen Sec 3 
+
+using System;
 
 namespace consoleapp
 
